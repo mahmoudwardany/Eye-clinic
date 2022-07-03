@@ -1,0 +1,29 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+
+}
+body{
+    max-height: 1000px;
+}
+a:hover{
+    color:black
+}
+button .btn {
+    text-align:end;
+    margin:auto;
+}
+#ph{
+    min-height:50px;
+    bottom:0%
+}
+.bo {
+    border-bottom:1px solid #fafafa;
+    margin-top:20px;
+    min-height: 200px;
+    text-align: center;
+}
+.bo :hover{
+box-shadow:1px 3px 5px rgba(0,0,0,0.1)
+}
